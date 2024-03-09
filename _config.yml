@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "George Fejer"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "George Fejer"
+description              : &description "George studied Bioscience (B.Sc.) at the University of Heidelberg and Cognitive Neuropsychology  (M.Sc) at the Vrije University in Amsterdam. His thesis project investigated the subperceptual effects of microdosing psilocybin on temporal integration processes"
+url                      : https://GeorgeFejer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "GeorgeFejer91/GeorgeFejer.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,21 +22,22 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "George Fejer"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "No opinions are my own    M.Sc. Cognitive Neuropsychology   B.Sc. Bioscience    Gatekeeper of Sarcasm"
+  location         : "Konstanz"
+  employer         : "University of Konstanz"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "george.fejer@uni-konstanz.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=GPARoloAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4904-5504"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  ALIUS            : "https://www.aliusresearch.org/"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -56,15 +57,15 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
+  linkedin         : "george-fejer1"
+  mastodon         : "https://fediscience.org/@GeorgeFejer"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : "GeorgeFejer"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
